@@ -18,5 +18,5 @@ docker - my favorite tools for building services.
 * Clone this repository
 * Change directory to src
 * Run **docker-compose build** 
-* Run **docker-compose up** or **docker-compose up -d*
+* Run **docker-compose up** or **docker-compose up -d**
 * Open [http://localhost/](http://localhost/) in your browser.  
