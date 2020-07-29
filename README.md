@@ -16,7 +16,7 @@ I like this project a lot, and I want to rebuild it in several ways:
 I don't really sure about publishing it on hosting, but you can always run it with
 docker - my favorite tools for building services.
 * Clone this repository
-* Change directory to src
+* Change directory to docker-blog
 * Run **docker-compose build** 
 * Run **docker-compose up** or **docker-compose up -d**
 * Open [http://localhost/](http://localhost/) in your browser.  
